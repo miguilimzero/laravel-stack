@@ -1,6 +1,6 @@
 # laravel-stack
 
-Laravel GUI Creator: 
+### Laravel GUI Creator: 
 <ul>
 <li>https://labs.infyom.com/laravelgenerator/</li>
 </ul>
