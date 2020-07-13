@@ -1,20 +1,30 @@
 # laravel-stack
 
 Laravel GUI Creator: 
-> https://labs.infyom.com/laravelgenerator/
+<ul>
+<li>https://labs.infyom.com/laravelgenerator/</li>
+</ul>
 
 ### Laravel Addons:
-> https://beyondco.de/docs/laravel-query-detector/installation
-> https://github.com/beyondcode/laravel-self-diagnosis
-> https://laravel-news.com/laravel-exchange-rates-api-package
+<ul>
+<li>https://beyondco.de/docs/laravel-query-detector/installation</li>
+<li>https://github.com/beyondcode/laravel-self-diagnosis</li>
+<li>https://laravel-news.com/laravel-exchange-rates-api-package</li>
+</ul>
 
 ### Laravel SPA Tool:
-> https://inertiajs.com/
+<ul>
+<li>https://inertiajs.com/</li>
+</ul>
 
 ### Laravel Nova:
-> https://github.com/appstract/nova-horizon
+<ul>
+<li>https://github.com/appstract/nova-horizon</li>
+</ul>
 
 ### Others:
-> https://larametrics.com/
-> https://github.com/mckenziearts/laravel-notify
+<ul>
+  <li>https://larametrics.com/</li>
+<li>https://github.com/mckenziearts/laravel-notify</li>
+</ul>
 
