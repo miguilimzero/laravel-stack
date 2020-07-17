@@ -24,7 +24,8 @@
 
 ### Others:
 <ul>
+  <li>https://github.com/Protoqol/Prequel/</li>
   <li>https://larametrics.com/</li>
-<li>https://github.com/mckenziearts/laravel-notify</li>
+  <li>https://github.com/mckenziearts/laravel-notify</li>
 </ul>
 
