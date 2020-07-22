@@ -12,6 +12,12 @@
 <li>https://laravel-news.com/laravel-exchange-rates-api-package</li>
 </ul>
 
+### Laravel Users:
+
+<ul>
+  <li>https://github.com/spatie/laravel-permission</li>
+</ul>
+
 ### Laravel SPA Tool:
 <ul>
 <li>https://inertiajs.com/</li>
